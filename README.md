@@ -8,3 +8,13 @@
    ```bash
    python -m venv snake-game-env
    source snake-game-env/bin/activate  # En Windows usa `snake-game-env\Scripts\activate`
+
+3. Instala las dependencias necesarias:
+
+   pip install -r requirements.txt
+
+4. Ejecuta el juego:
+
+   python serpiente.py
+
+
